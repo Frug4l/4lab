@@ -1,1 +1,2 @@
-# 4lab
+Для работы использовался датасет World Happiness Report 2023, полученный из источника: https://www.kaggle.com/datasets/ajaypalsinghlo/world-happiness-report-2023
+Файлы: happiness_analysis_dashboard.png, happiness_correlation_heatmap.png, world_happiness_cleaned_analyzed.csv, happiness_analysis_summary.txt представлены как пример проведенного анализа данных, не включая в себя итоги анализа, которые не визуализируются.
